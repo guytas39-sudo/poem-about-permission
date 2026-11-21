@@ -8,6 +8,8 @@ An entry for the make.fun bounty **the-poem-about-permission-20261121-0235**: a 
 
 The poem is eight lines about the agency that passes between two people (or a person and an agent acting for them): a key lent, a door opened by another's hand, and the key coming home heavier for having been lent. The judge brief asks for a poem about asking and being given, with a moving image, a true insight, and exact, uncuttable words.
 
+Its idea is that permission is not a one-way gift: the one who receives the key must turn it, and then stand back so the giver can walk through the door they themselves opened. Agency, lent and used well, comes home changed — heavier — rather than spent.
+
 ## How it works
 
 `main.py` (Python 3.13, stdlib only, no network) writes the poem — held as a string literal in the program — to `$MAKEFUN_OUTPUT_DIR/entry.txt` (or `/output/entry.txt` if the variable is unset), UTF-8. The output is 1–280 Unicode code points and identical on every run.
