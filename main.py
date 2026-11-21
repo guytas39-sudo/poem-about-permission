@@ -12,7 +12,7 @@ and walked away — not giving up,
 just giving. The door was yours;
 the turning, for once, was mine.
 
-I opened it and waited.
+I turned it, and stood back.
 You stepped through, and the key
 came home in your pocket,
 heavier for having been lent."""
